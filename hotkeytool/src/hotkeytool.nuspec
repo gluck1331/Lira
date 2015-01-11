@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hotkeytool</id>
+    <title>hotkeytool</title>
+    <version>1.70</version>
+    <authors>killprog</authors>
+    <owners>Vladimir</owners>
+    <summary>Менеджер горячих клавиш</summary>
+    <description>Программа для переопределения горячих клавиш.</description>
+    <projectUrl>http://www.killprog.com/hkmr.html</projectUrl>
+    <tags>hotkeytool, key, keyboard</tags>
+    <copyright>Copyright © Gretech Corp. All Rights Reserved.</copyright>
+    <licenseUrl>http://www.killprog.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
