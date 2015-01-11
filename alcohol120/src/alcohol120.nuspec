@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>alcohol120</id>
+    <title>alcohol120</title>
+    <version>2.0.2.5830</version>
+    <authors>alcohol-soft</authors>
+    <owners>Vladimir</owners>
+    <summary>Виртуалка</summary>
+    <description>Программа для работы с образами дисков.</description>
+    <projectUrl>http://www.alcohol-soft.com</projectUrl>
+    <tags>alcohol120,iso,nda,virtual,cd,dwd</tags>
+    <copyright>Copyright © Gretech Corp. All Rights Reserved.</copyright>
+    <licenseUrl>http://www.alcohol-soft.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://dl.dropboxusercontent.com/u/9319413/soft/x32/alcohol120.ico</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
