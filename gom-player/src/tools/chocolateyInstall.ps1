@@ -2,7 +2,7 @@
 
 $packageName = 'workrave' # arbitrary name for the package, used in messages
 $installerType = 'exe' #only one of these: exe, msi, msu
-$url = 'https://dl.dropboxusercontent.com/u/9319413/GOMPLAYERENSETUP.EXE' # download url
+$url = 'https://dl.dropboxusercontent.com/u/9319413/soft/x32/GOMPLAYERENSETUP.EXE' # download url
 $silentArgs = '/S' # "/s /S /q /Q /quiet /silent /SILENT /VERYSILENT" # try any of these to get the silent installer #msi is always /quiet
 $validExitCodes = @(0) #please insert other valid exit codes here, exit codes for ms http://msdn.microsoft.com/en-us/library/aa368542(VS.85).aspx
 
