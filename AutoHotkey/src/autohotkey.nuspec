@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AutoHotkey</id>
+    <version>1.1.23.01</version>
+    <title>AutoHotkey</title>
+    <authors>utility</authors>
+    <owners>Vladimir</owners>
+    <licenseUrl>https://autohotkey.com/docs/AutoHotkey.htm#Version_v112301</licenseUrl>
+    <projectUrl>https://autohotkey.com/docs/AutoHotkey.htm#Version_v112301</projectUrl>
+    <iconUrl>https://dl.dropboxusercontent.com/u/9319413/soft/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Программа для программирования действий нажатий клавиш.</description>
+    <summary>Утилита</summary>
+    <releaseNotes />
+    <copyright>Copyright © Gretech Corp. All Rights Reserved.</copyright>
+    <tags>keys,press,koding,script</tags>
+  </metadata>
+    <files>
+     <file src="tools\**" target="tools" />
+   </files>
+</package>
