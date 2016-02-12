@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BulkRenameUtility</id>
+    <version>3.0.0.1</version>
+    <title>BulkRenameUtility</title>
+    <authors>utility</authors>
+    <owners>Vladimir</owners>
+    <licenseUrl>http://www.bulkrenameutility.co.uk/Main_Intro.php</licenseUrl>
+    <projectUrl>http://www.bulkrenameutility.co.uk/Main_Intro.php</projectUrl>
+    <iconUrl>https://dl.dropboxusercontent.com/u/9319413/soft/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Программа для переименования сразу нескольких файлов.</description>
+    <summary>Утилита</summary>
+    <releaseNotes />
+    <copyright>Copyright © Gretech Corp. All Rights Reserved.</copyright>
+    <tags>rename</tags>
+  </metadata>
+    <files>
+     <file src="tools\**" target="tools" />
+   </files>
+</package>
