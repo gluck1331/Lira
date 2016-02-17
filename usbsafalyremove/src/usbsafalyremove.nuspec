@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>USBSafelyRemove</id>
+    <version>5.2.4.1215</version>
+    <title>cloneapp</title>
+    <authors>USBSafelyRemove</authors>
+    <owners>Vladimir</owners>
+    <licenseUrl>http://safelyremove.com/ru</licenseUrl>
+    <projectUrl>http://safelyremove.com/ru</projectUrl>
+    <iconUrl>https://dl.dropboxusercontent.com/u/9319413/soft/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Менеджер USB устройств, он экономит время и расширяет возможности пользователя при активной работе с флэшками, переносными винчестерами, кард-ридерами и другими гаджетами.
+      Программа дает удобное безопасное извлечение, избавленное от недостатков встроенного в Windows, показывает какие программы мешают извлечь устройство, убирает диски пустых слотов кард-ридеров, умеет возвращать обратно отключенные устройства и содержит массу других функций для комфортной и приятной работы с hot-plug устройствами (USB, SATA, FireWire).
+    </description>
+    <summary>Утилита</summary>
+    <releaseNotes />
+    <copyright>Copyright © Gretech Corp. All Rights Reserved.</copyright>
+    <tags>ini,config,params,save</tags>
+  </metadata>
+    <files>
+     <file src="tools\**" target="tools" />
+   </files>
+</package>
